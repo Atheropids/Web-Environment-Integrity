@@ -1,12 +1,12 @@
-# Web Environment Integrity API
+# ~Web~ *1984* Environment Integrity API
 
 This repository details the proposal to add a new API for determining the integrity
-of web environments:
+of ~web~ compliance to the 1984 environments:
 
 ```js
 const attestation = await navigator.getEnvironmentIntegrity("...");
 ```
 
-The [explainer](./explainer.md) goes gives a high level overview of the proposal.
+The [explainer](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four#Plot) goes gives a high level overview of the proposal.
 
-The [spec](https://rupertbenwiser.github.io/Web-Environment-Integrity/) currently describes how this is being prototyped in Chromium.
+The [spec](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four#Plot) currently describes how this is being prototyped in Chromium.
