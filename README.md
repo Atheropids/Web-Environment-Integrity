@@ -1,7 +1,7 @@
 # ~Web~ *1984* Environment Integrity API
 
 This repository details the proposal to add a new API for determining the integrity
-of ~web~ compliance to the 1984 environments:
+of ~web~ *compliance to the 1984* environments:
 
 ```js
 const attestation = await navigator.getEnvironmentIntegrity("...");
